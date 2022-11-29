@@ -1,11 +1,23 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BC_Nucleo446RE
+D ARM Cortex-M4 MCU, 256KB flash, 128KB RAM, 180MHz, 1.8-3.6V, 50 GPIO, LQFP-64
+K ARM Cortex-M4 STM32F4 STM32F446
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00141306.pdf
+$ENDCMP
+#
 $CMP BC_STM32F446RE
 D 성준이가 만들었던 STM
 $ENDCMP
 #
 $CMP NUCLEO-F446RE-STM_BC_0
 D 내가 설계했던 F446RE
+$ENDCMP
+#
+$CMP STM32F446RETx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 180MHz, 1.8-3.6V, 50 GPIO, LQFP-64
+K ARM Cortex-M4 STM32F4 STM32F446
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00141306.pdf
 $ENDCMP
 #
 #End Doc Library

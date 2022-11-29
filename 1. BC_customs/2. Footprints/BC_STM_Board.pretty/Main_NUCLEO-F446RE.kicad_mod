@@ -1,4 +1,4 @@
-(module STM (layer F.Cu) (tedit 5E1C2A87)
+(module Main_NUCLEO-F446RE (layer F.Cu) (tedit 5E1C2A87)
   (fp_text reference REF** (at 33.02 29.21) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
